@@ -1,3 +1,3 @@
-# myshop.local
-# myshop
-# myshop.local
+Интернет-магазин v1.0
+С помощью шаблонизатора Smarty
+
